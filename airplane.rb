@@ -24,7 +24,7 @@ class Airplane
     [
       mila: 'vegetarian',
       paul: 'chicken',
-       egon: 'chicken',
+      egon: 'chicken',
       sama: 'chicken'
     ]
   end
